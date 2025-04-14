@@ -53,3 +53,4 @@ export default tseslint.config({
 })
 ```
 # react-js-boilerplate
+# react-js-boilerplate
